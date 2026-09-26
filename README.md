@@ -2,8 +2,7 @@
 
 An interactive **HR Analytics Dashboard** built using Microsoft Excel to analyse employee demographics, workforce composition and employee attrition.
 
-<img width="955" height="580" alt="Screenshot 2026-09-26 235441" src="https://github.com/user-attachments/assets/c4ffad0a-386a-4f81-ac8c-a89138add54a" />
-
+<img width="947" height="567" alt="Screenshot 2026-09-27 000634" src="https://github.com/user-attachments/assets/2ddb8d19-1de9-4599-9adf-b22c9cc31488" />
 
 ## Project Overview
 
